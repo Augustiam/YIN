@@ -1,2 +1,2 @@
 # YIN
-Android. finna-be-avenger.
+System.out.println("I'm YIN");
